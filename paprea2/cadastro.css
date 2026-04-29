@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/1200x/44/b9/db/44b9db8480e545572912e99be13fe614.jpg");
+    background-size: cover; 
+    background-position: center; 
+}
